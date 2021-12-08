@@ -115,7 +115,7 @@
             <circle cx="155.6" cy="238.8" r="2.5"/>
           </g>
         </g>
-        <g class="eg-hover" class="tooltip" id="tooltip">
+        <g class="eg-hover tooltip"  id="tooltip">
           <path d="M292.4,454.8h-12l-5.5,9.4-5.8-9.4H257.6a2.7,2.7,0,0,1-2.7-2.7V423.3a2.7,2.7,0,0,1,2.7-2.7h34.7a2.7,2.7,0,0,1,2.7,2.7V452A2.6,2.6,0,0,1,292.4,454.8Z" transform="translate(-97 -372.6)" fill="#36a9e1"/>
           <g>
             <g class="eg-hover">
@@ -135,7 +135,7 @@
             </g>
           </g>
         </g>
-        <g class="eg-hover" class="tooltip" id="tooltip-2" data-name="tooltip">
+        <g class="eg-hover tooltip" id="tooltip-2" data-name="tooltip">
           <g class="eg-hover">
             <path d="M184.7,543.1h-12l-5.5,9.4-5.8-9.4H149.9a2.7,2.7,0,0,1-2.7-2.7V511.6a2.7,2.7,0,0,1,2.7-2.7h34.7a2.7,2.7,0,0,1,2.7,2.7v28.8A2.5,2.5,0,0,1,184.7,543.1Z" transform="translate(-97 -372.6)" fill="#e6332a"/>
             <g>
@@ -163,7 +163,7 @@
             <line x1="77.8" y1="154.2" x2="82.4" y2="154.2" fill="none" stroke="#fff" stroke-miterlimit="10"/>
           </g>
         </g>
-        <g class="eg-hover" class="tooltip" id="tooltip-3" data-name="tooltip">
+        <g class="eg-hover tooltip" id="tooltip-3" data-name="tooltip">
           <path d="M386.5,510.4h-12l-5.5,9.4-5.8-9.4H351.7a2.7,2.7,0,0,1-2.7-2.7V478.9a2.7,2.7,0,0,1,2.7-2.7h34.7a2.7,2.7,0,0,1,2.7,2.7v28.8A2.5,2.5,0,0,1,386.5,510.4Z" transform="translate(-97 -372.6)" fill="#e94e1b"/>
           <g class="eg-hover">
             <polygon points="267.5 123 264.2 116.9 261 110.8 267.5 110.8 273.9 110.8 270.7 116.9 267.5 123" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round"/>
@@ -178,7 +178,7 @@
           <path d="M374.7,492.4h0c-.1.1,0,.1,0,0h0s.2.1.1,0-.1,0-.1,0h0c.1.1.1,0,0,0h0c0,.1.1,0,0,0h.1c0-.1.1-.1.1-.2l.3-.6a1.4,1.4,0,0,0,.1-.9.4.4,0,0,0-.6-.3.4.4,0,0,0-.3.6h0c0,.1-.1.1-.1.2a2.5,2.5,0,0,0-.4.7,1.2,1.2,0,0,0,.2,1,1,1,0,0,0,.9.3l.3-.2a.6.6,0,0,0,.1-.4c-.2-.2-.5-.5-.7-.4Z" transform="translate(-97 -372.6)" fill="#fff"/>
           <path d="M378.4,496.9h2v.3h0v.3s-.1.1,0,.1h0l-.2.3h-1.4c-.2-.1-.6.1-.6.3a.5.5,0,0,0,.3.6,2.2,2.2,0,0,0,2.7-1.3,2.9,2.9,0,0,0,.3-1.6,1,1,0,0,0-.4-.7,1.2,1.2,0,0,0-.9-.3h-1.9a.5.5,0,0,0-.5.5,1,1,0,0,0,.7.4Z" transform="translate(-97 -372.6)" fill="#fff"/>
         </g>
-        <g class="eg-hover" class="tooltip" id="tooltip-4" data-name="tooltip">
+        <g class="eg-hover tooltip" id="tooltip-4" data-name="tooltip">
           <g class="eg-hover">
             <path d="M469.8,543.5h-12l-5.5,9.4-5.8-9.4H435a2.7,2.7,0,0,1-2.7-2.7V512a2.7,2.7,0,0,1,2.7-2.7h34.7a2.7,2.7,0,0,1,2.7,2.7v28.8A2.5,2.5,0,0,1,469.8,543.5Z" transform="translate(-97 -372.6)" fill="#2d2e83"/>
             <g class="eg-hover">
@@ -193,7 +193,7 @@
           <polyline points="365 141 365 144.7 368.9 144.7" fill="none" stroke="#fff" stroke-miterlimit="10"/>
           <polygon points="353.9 155.4 357.2 150.2 360.2 155.3 353.9 155.4" fill="none" stroke="#fff" stroke-miterlimit="10"/>
         </g>
-        <g class="eg-hover" class="tooltip" id="tooltip-5" data-name="tooltip">
+        <g class="eg-hover tooltip" id="tooltip-5" data-name="tooltip">
           <path d="M445.6,601.4h-12l-5.5,9.4-5.8-9.4H410.8a2.7,2.7,0,0,1-2.7-2.7V569.9a2.7,2.7,0,0,1,2.7-2.7h34.7a2.7,2.7,0,0,1,2.7,2.7v28.8A2.6,2.6,0,0,1,445.6,601.4Z" transform="translate(-97 -372.6)" fill="#f9b233"/>
           <polygon points="327.5 213 327.5 201.6 345.7 201.6 345.7 213.3 336.6 213.2 327.5 213" fill="none" stroke="#fff" stroke-miterlimit="10"/>
           <line x1="336.7" y1="221.1" x2="336.7" y2="213.2" fill="none" stroke="#fff" stroke-miterlimit="10"/>
